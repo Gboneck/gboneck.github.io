@@ -2,6 +2,7 @@
 title:  "A New Beginning"
 date:   2015-7-23 10:18:00
 description: "Old stuff" and maybe some "New stuff"
+profile: true
 ---
 
 Now what? A question I continue to ask myself after leaving the product that I had just spent the past half a year building. I had a realization last Monday while staring at the screen that what I was building was not what I intended to build and certainly not what I wanted to build. 
