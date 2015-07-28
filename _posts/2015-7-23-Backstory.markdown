@@ -9,7 +9,7 @@ Now what? A question I continue to ask myself after leaving the product that I h
 
 What had started as a online application portal for tenants seeking new rental housing had evolved over half a year into a payment processor that simplified things for the landlord. A rather robust payment processor - built to scale into multiple applications but initially focused on residential rentals. The monetization was there and the product was there but my heart was not. 
 
-I am not alone in being drawn towards entreprenuership by the headlines of "New Young Guy Becomes Youngest Billionaire!". Of course I fantasize about getting an enormous accumulation of wealth. But there has always been something more to why I chose to pursue startups and building new innovative products - altruism.
+I would be lying if the I told you that the headline: "New Young Guy Becomes Billionaire!" isn't a part of why I do what I do. I know I'm not alone in that. Of course I fantasize about getting an accumulating an enormous amount of wealth. But there has always been something more to why I chose to pursue startups and building new innovative products - altruism.
 
 Like many others, I want to make an impact on the world - but how? I landed on entreprenuership. Starting a company or launching a product was by far the best way to achieve my two goals: Getting rich and helping people.
 
@@ -17,6 +17,7 @@ I have been building since I was 14 with those two milestones as my focus and it
 
 I had spent the last year working for an investment broker as an analyst. The most alluring thing about it was the potential "gold and glory" that could be achieved by helping broker these deals. I spent more and more time thinking how little what I was doing was contributing to anything but my own (theoretical) accumulation of wealth.
 
+[github][www.github.com]
 I felt lost.
 
 
