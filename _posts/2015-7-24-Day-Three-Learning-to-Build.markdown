@@ -1,7 +1,7 @@
 ---
-title:  "Day Two - Goal Orientation"
+title:  "Day Three - Learning to Build"
 date:   2015-7-24 10:18:00
-description: "Time to stop being a vegetable."
+description: "A declaration of the first three goals and a plan to execute them."
 profile: true
 ---
 
