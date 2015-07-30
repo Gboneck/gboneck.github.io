@@ -2,7 +2,6 @@
 title:  "Backstory"
 date:   2015-7-23 10:18:00
 description: "Old stuff" and maybe some "New stuff"
-profile: true
 ---
 
 Now what? A question I continue to ask myself after leaving the product that I had just spent the past half a year building. I had a realization last Monday while staring at the screen that what I was building was not what I intended to build and certainly not what I wanted to build. 
@@ -17,7 +16,6 @@ I have been building since I was 14 with those two milestones as my focus and it
 
 I had spent the last year working for an investment broker as an analyst. The most alluring thing about it was the potential "gold and glory" that could be achieved by helping broker these deals. I spent more and more time thinking how little what I was doing was contributing to anything but my own (theoretical) accumulation of wealth.
 
-[github][www.github.com]
 I felt lost.
 
 

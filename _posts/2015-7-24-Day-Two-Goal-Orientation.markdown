@@ -2,7 +2,6 @@
 title:  "Day Two - Goal Orientation"
 date:   2015-7-24 10:18:00
 description: "Time to stop being a vegetable."
-profile: true
 ---
 
 This blog doesn't have a form right now. The first item on my list is to format the blog in some way to be more structured. I mean the blog has to, in some way, help give my life structure. My intent is to utilize the blog as a tool to help better myself through creation of habits while sharing my opinion with whoever is willing to reading this (thank you, whomever you are).

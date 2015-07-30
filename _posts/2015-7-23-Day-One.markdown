@@ -2,7 +2,6 @@
 title:  "Day One"
 date:   2015-7-24 10:18:00
 description: "The beginning of Griffin's blog"
-profile: true
 ---
 
 I keep starting writing my first post and then stopping half-way. So here it is. The first post of 365 other posts that currently have no direction...
