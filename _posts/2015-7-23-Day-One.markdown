@@ -8,18 +8,18 @@ profile: true
 I keep starting writing my first post and then stopping half-way. So here it is. The first post of 365 other posts that currently have no direction...
 
 Some of my short-term goals:
-- Build a bench and a hammock
-- Design and build prototype for mobile chat platform (currently without a name)
-- Be happy
-- Take more walks
-- Increase reading speed
-- Read three books per month
-- Figure out if this blog has a purpose
++ Build a bench and a hammock
++ Design and build prototype for mobile chat platform (currently without a name)
++ Be happy
++ Take more walks
++ Increase reading speed
++ Read three books per month
++ Figure out if this blog has a purpose
 
 Some of my long-term goals:
-- Be happy
-- Make money
-- Don't die
-- ...
++ Be happy
++ Make money
++ Don't die
++ ...
 
 Yep.
